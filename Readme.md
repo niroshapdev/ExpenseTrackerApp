@@ -93,6 +93,15 @@ In debug mode, developer will be able to perform all these functionalities.
 1. Settings (Dev mode only)
 
 # Screenshots
+**Today** <BR>
+<kbd> <img src="https://github.com/niroshapdev/ExpenseTrackerApp/blob/master/Diagrams/TodayView.png"> </kbd>
+<BR>
+**Balances** <BR>
+<kbd> <img src="https://github.com/niroshapdev/ExpenseTrackerApp/blob/master/Diagrams/BalancesView.png"> </kbd>
+<BR>
+**Reports** <BR>
+<kbd> <img src="https://github.com/niroshapdev/ExpenseTrackerApp/blob/master/Diagrams/ReportsView.png"> </kbd>
+<BR>
 
 # Future plans 
 1. Notifications 
