@@ -94,13 +94,14 @@ In debug mode, developer will be able to perform all these functionalities.
 
 # Screenshots
 **Today** <BR>
-<img src="https://github.com/niroshapdev/ExpenseTrackerApp/blob/master/Diagrams/TodayView.png">
-
+<kbd> <img src="https://github.com/niroshapdev/ExpenseTrackerApp/blob/master/Diagrams/TodayView.png"> </kbd>
+<BR>
 **Balances** <BR>
-<img src="https://github.com/niroshapdev/ExpenseTrackerApp/blob/master/Diagrams/BalancesView.png">
-
+<kbd> <img src="https://github.com/niroshapdev/ExpenseTrackerApp/blob/master/Diagrams/BalancesView.png"> </kbd>
+<BR>
 **Reports** <BR>
-<img src="https://github.com/niroshapdev/ExpenseTrackerApp/blob/master/Diagrams/ReportsView.png">
+<kbd> <img src="https://github.com/niroshapdev/ExpenseTrackerApp/blob/master/Diagrams/ReportsView.png"> </kbd>
+<BR>
 
 # Future plans 
 1. Notifications 
