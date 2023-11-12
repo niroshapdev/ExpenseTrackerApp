@@ -92,7 +92,7 @@ In debug mode, developer will be able to perform all these functionalities.
 1. Reports
 1. Settings (Dev mode only)
 
-# Screenshots
+# App flow diagrams
 **Today** <BR>
 <kbd> <img src="https://github.com/niroshapdev/ExpenseTrackerApp/blob/master/Diagrams/TodayView.png"> </kbd>
 <BR>
@@ -102,6 +102,9 @@ In debug mode, developer will be able to perform all these functionalities.
 **Reports** <BR>
 <kbd> <img src="https://github.com/niroshapdev/ExpenseTrackerApp/blob/master/Diagrams/ReportsView.png"> </kbd>
 <BR>
+
+# Screenshots
+App screenshots are available in this repository inside AppScreenshots folder
 
 # Future plans 
 1. Notifications 
