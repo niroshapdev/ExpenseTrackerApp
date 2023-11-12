@@ -104,11 +104,14 @@ In debug mode, developer will be able to perform all these functionalities.
 <BR>
 
 # Screenshots
-App screenshots are available in this repository inside AppScreenshots folder
+App screenshots are available in this repository inside **AppScreenshots** folder
 
 # Future plans 
 1. Notifications 
-1. Budget 
+1. Budget
+1. Currency conversion
+1. Payment gateways
+1. Upload receipts
 
 # Challenges faced
 1. Inserting a new entry with null values (except ID), for each actual entry submitted to CoreData
